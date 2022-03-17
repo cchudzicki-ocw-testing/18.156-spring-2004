@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 3b702b0b-1c93-b5c9-ac2c-f834d3e45255
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -18,7 +20,7 @@ The main goal of this course is to give the students a solid foundation in the t
 
 Lu = f, or
 
-{{< resource b378fc13-b341-5685-6141-8c2c7af68856 "" >}}
+{{< resource "b378fc13-b341-5685-6141-8c2c7af68856" >}}
 
 where L is a linear second order elliptic operator, then when does C^{alpha} regularity of f imply C^{2,alpha} regularity of u?
 
